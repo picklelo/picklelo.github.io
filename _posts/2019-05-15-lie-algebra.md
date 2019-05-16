@@ -15,7 +15,7 @@ for each point $t \in T$, the derivative $\nabla T$ exists at the point $t$.
 
 If i make th is longer, the issue should be solved
 
-![testing an image](../../../../img/posts/02.jpg){:class="img-fluid"}
+![testing an image](/img/posts/02.jpg){:class="img-fluid"}
 
 A Lie Group is simply a group that is also a differentiable manifold.
 Examples of Lie Groups are the set of $n \times n$ invertible matrices, 
