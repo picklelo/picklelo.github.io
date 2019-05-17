@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Lie Algebras"
+title:  Lie Algebras
+subtitle: The symmetry underneath
 date:   2019-05-15
 categories: blog
 ---
