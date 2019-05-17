@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 <div markdown="1" class="text-center">
-![](/img/profile.jpg){:width="300px"}
+![](/img/about/profile.jpg){:width="300px"}
 </div>
 Hello, welcome to my website! 
 
